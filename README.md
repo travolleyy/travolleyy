@@ -1,8 +1,8 @@
 -Hello all, I am actively pursuing a role in Data Analytics, within healthcare.
--This Repository showcases my ability to analize healthcare data by data wrangling, data manipulation, and data presentation, through my skills in Python, matplot, SQL, and excel. 
+-This Repository showcases my ability to analize healthcare data by data wrangling, data manipulation, and data presentation, through my skills in Python, Matplot, SQL, and Excel. 
 
 -Feel free to reach me by:
-email:ravolley96@gmail.com
+email:travolley96@gmail.com
 Linkedin: https://www.linkedin.com/in/travis-holley-2a4994207
 
 <!--
