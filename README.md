@@ -1,4 +1,4 @@
--Hello all, I am actively pursuing a role in data analytics and product support.
+-Hello all, I am actively pursuing a role in data analytics.
 -This Repository showcases my ability to analize data by data wrangling, data manipulation, and data presentation, through my skills in Python, Matplot, SQL, and Excel. 
 
 -Feel free to reach me by:
