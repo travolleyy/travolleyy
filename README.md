@@ -1,5 +1,5 @@
 -Hello all, I am actively pursuing a role in software development.
--This Repository showcases my ability.
+-This Repository showcases my abilities.
 
 -Feel free to reach me by:
 email:travolley96@gmail.com
