@@ -1,5 +1,5 @@
--Hello all, I am actively pursuing a role in data analytics.
--This Repository showcases my ability to analize data by data wrangling, data manipulation, and data presentation, through my skills in Python, Matplot, SQL, and Excel. 
+-Hello all, I am actively pursuing a role in software development.
+-This Repository showcases my ability.
 
 -Feel free to reach me by:
 email:travolley96@gmail.com
