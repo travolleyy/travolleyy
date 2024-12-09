@@ -2,7 +2,7 @@
 -This Repository showcases my abilities.
 
 -Feel free to reach me by:
-email:travolley96@gmail.com
+email:tmholley96@gmail.com
       Linkedin: https://www.linkedin.com/in/travis-holley-2a4994207
 
 <!--
