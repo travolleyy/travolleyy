@@ -3,7 +3,7 @@
 
 -Feel free to reach me by:
 email:tmholley96@gmail.com
-      Linkedin: https://www.linkedin.com/in/travis-holley-2a4994207
+Linkedin: https://www.linkedin.com/in/travis-holley-2a4994207
 
 <!--
 **travolleyy/travolleyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
